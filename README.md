@@ -1,8 +1,8 @@
 <h1 align="center">
-  Gatsyby startbootstrap-agency
+  PurritoCoin website
 </h1>
 
-gatsby version of startbootstrap-agency with i18n supported.
+gatsby version of PurritoCoin site with i18n supported.
 
 [![dependencies Status](https://david-dm.org/thundermiracle/gatsby-startbootstrap-agency/status.svg)](https://david-dm.org/thundermiracle/gatsby-startbootstrap-agency)
 [![Netlify Status](https://api.netlify.com/api/v1/badges/0a8bfd50-2bd5-43a6-bacd-51e5efc1f248/deploy-status)](https://app.netlify.com/sites/gatsby-startbootstrap-agency/deploys)
@@ -11,19 +11,12 @@ __This project is migrated to Gatsby@v3, check the latest Gatsby@v2 version [her
 
 ## Preview
 
-![startbootstrap-agency](https://github.com/thundermiracle/gatsby-startbootstrap-agency/blob/screenshot/screenshot/startbootstrap-agency.png)
-
 ## Sample page
 
-[https://gatsby-startbootstrap-agency.netlify.app](https://gatsby-startbootstrap-agency.netlify.app)
-
-[※ startbootstrap-agency (Original Version)](https://github.com/BlackrockDigital/startbootstrap-agency)
-
-[※ startbootstrap-agency-webpack(Webpack Version)](https://github.com/thundermiracle/startbootstrap-agency-webpack/)
 
 ## Note
 
-__If you're not interesting in i18n, use [StaticQueryVersion](https://github.com/thundermiracle/gatsby-startbootstrap-agency/tree/StaticQueryVersion) instead. StaticQueryVersion gets better performance and better code structure.__
+
 
 ## How to use
 
