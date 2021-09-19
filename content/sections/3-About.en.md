@@ -1,34 +1,40 @@
 ---
-anchor: "About"
-header: "About"
-subheader: "Lorem ipsum dolor sit amet consectetur."
+anchor: "Roadmap"
+header: "Roadmap"
+subheader: "This outlines Purrito's roadmap with an overview."
 timeline: [
   {
-    imageFileName: "about/1.jpg",
-    header: "2009-2011",
-    subheader: "Our Humble Beginnings",
-    content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+    imageFileName: "roadmap/1.jpg",
+    header: "June 2021",
+    subheader: "The beginning",
+    content: "We started Purrito because we were sick of charity coins that weren't even trying. We saw Cardano as the perfect network to begin our journey to change how a decentralized charity functions."
   },
   {
     imageFileName: "about/2.jpg",
-    header: "March 2011",
-    subheader: "An Agency is Born",
-    content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+    header: "September 2021",
+    subheader: "True work begins",
+     content: "Whitepaper is released and smart contract work starts"
   },
   {
-    imageFileName: "about/3.jpg",
-    header: "December 2012",
-    subheader: "Transition to Full Service",
-    content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+    imageContent: "This is where things get fun!"
+  },
+    {
+    imageFileName: "about/2.jpg",
+    header: "November 2021",
+    subheader: "To govern or not to govern",
+     content: "The Purrito Coin governance token launches on DEX."
   },
   {
-    imageFileName: "about/4.jpg",
-    header: "July 2014",
-    subheader: "Phase Two Expansion",
-    content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+    imageContent: "What is for dessert?"
+  },
+    {
+    imageFileName: "about/2.jpg",
+    header: "April 2022",
+    subheader: "RFID Proof of Life",
+     content: "Proof of life RFID verification system attached to NFTs for on-chain data."
   },
   {
-    imageContent: "Be Part\r\nOf Our\r\nStory!"
-  }
+    imageContent: "More coming soon"
+  },
 ]
 ---

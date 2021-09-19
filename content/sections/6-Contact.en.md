@@ -1,7 +1,7 @@
 ---
 anchor: "Contact"
 header: "Let's Get In Touch!"
-subheader: "Ready to start your next project with us? Give us a call or send us an email and we will get back to you as soon as possible!"
-telephone: 03-0000-0001
-email: contact@yourwebsite.com
+subheader: "Trying to get in Contact with the Purrito Team? Give us a call or send us an email and we will get back to you as soon as possible!"
+telephone: +1 (307)-381-1287
+email: Purritocoin101@protonmail.com
 ---

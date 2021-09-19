@@ -1,6 +1,6 @@
 ---
-header: "It's Nice To Meet You"
-subheader: "Welcome To Our Studio!"
+header: "A Charity built on the Cardano Blockchain"
+subheader: "Welcome To Purrito!"
 imageFileName: "header-bg.jpg"
 jumpToAnchor: "Services"
 jumpToAnchorText: "Tell Me More"

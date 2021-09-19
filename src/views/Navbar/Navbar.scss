@@ -12,13 +12,13 @@
     @include heading-font;
   }
   .navbar-brand {
-    color: $primary !important;
+    color: white !important;
     @include script-font;
     &.active,
     &:active,
     &:focus,
     &:hover {
-      color: darken($primary, 10%) !important;
+      color: darken(#4da8fc, 10%) !important;
     }
   }
 }

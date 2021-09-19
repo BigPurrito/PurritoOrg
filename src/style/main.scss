@@ -63,8 +63,9 @@ img::-moz-selection {
 }
 
 .btn-primary {
-  background-color: $primary;
-  border-color: $primary;
+  background-image: linear-gradient(to right, #DD5E89 0%, #F7BB97 51%, #DD5E89 100%
+  ) ;
+  border-color: white;
   &:active,
   &:focus,
   &:hover {

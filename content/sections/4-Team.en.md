@@ -1,37 +1,43 @@
 ---
 anchor: "Team"
 header: "Our Amazing Team"
-subheader: "Lorem ipsum dolor sit amet consectetur."
-content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde."
+subheader: ""
+content: ""
 teamMember: [
   {
-    imageFileName: "team/1.jpg",
-    header: "Kay Garland",
-    subheader: "Lead Designer",
+    imageFileName: "team/AnthonyC.jpg",
+    header: "Anthony Chavez",
+    subheader: "Founder",
     social: {
       twitter: "#",
-      facebook: "#",
-      linkedin: "#"
+      linkedin: "anthony-chavez-81898921"
     }
   },
   {
-    imageFileName: "team/2.jpg",
-    header: "Larry Parker",
-    subheader: "Lead Marketer",
+    imageFileName: "team/cameron_image.jpg",
+    header: "Cameron Roman",
+    subheader: "Founder",
     social: {
-      twitter: "#",
-      facebook: "#",
-      medium: "#"
+      twitter: "SoftKittyTaco1",
+      linkedin: "cameron-roman-653865183/"
     }
   },
   {
-    imageFileName: "team/3.jpg",
-    header: "Diana Pertersen",
-    subheader: "Lead Developer",
+    imageFileName: "team/bob.jpg",
+    header: "Bob Nuss",
+    subheader: "Loremaster",
     social: {
-      twitter: "#",
-      facebook: "#",
-      medium: "#"
+      twitter: "MajikCat13",
+      linkedin: "bob-nuss-856908b0/"
+      
+    }
+  },
+  {
+    imageFileName: "team/Mosie.jpg",
+    header: "Chris Mosie",
+    subheader: "NFT artist",
+    social: {
+      twitter: "MosieAlong"
     }
   },
 ]

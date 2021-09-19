@@ -27,7 +27,7 @@ const Team = ({ className, frontmatter }) => {
       </Row>
       <Row>
         {teamMember.map(({ header, ...tmProps }) => (
-          <Col sm={4} key={header}>
+          <Col md={4} key={header} className="mx-auto align-center">
             <TeamMember header={header} {...tmProps} />
           </Col>
         ))}

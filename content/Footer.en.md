@@ -1,8 +1,8 @@
 ---
-copyright: "Copyright © Start Bootstrap 2020"
+copyright: "Copyright © Purrito Coin 2021"
 social: {
   twitter: "#",
-  facebook: "#",
+  instagram: "#",
   medium: "#"
 }
 privacyText: "Privacy Policy"
