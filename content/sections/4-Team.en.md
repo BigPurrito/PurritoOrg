@@ -10,7 +10,7 @@ teamMember: [
     subheader: "Founder",
     social: {
       instagram: "anthony.c.chavez/?hl=en",
-      linkedin: "anthony-chavez-81898921/"
+      linkedin: "anthony-chavez-81898921b"
     }
   },
   {
