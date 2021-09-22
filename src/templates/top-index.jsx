@@ -31,6 +31,7 @@ export const query = graphql`
       sort: { order: ASC, fields: [fields___directoryName, fields___fileName] }
     ) {
       nodes {
+        html
         frontmatter {
           brand
           anchor
@@ -60,6 +61,7 @@ export const query = graphql`
             linkedin
             medium
             twitter
+            instagram
           }
           subheader
           teamMember {
@@ -71,12 +73,11 @@ export const query = graphql`
               linkedin
               medium
               twitter
+              instagram
             }
             subheader
           }
           telephone
-          termsHref
-          termsText
           title
           timeline {
             content
@@ -114,7 +115,7 @@ const IndexPage = ({ data, pageContext: { langKey, defaultLang, langTextMap } })
 
   return (
     <>
-      <SEO lang={langKey} title="Top" keywords={keywords} description={description} />
+      <SEO lang={langKey} title="Purr" keywords={keywords} description={description} />
       <Navbar
         anchors={anchors}
         frontmatter={navBarNode.frontmatter}

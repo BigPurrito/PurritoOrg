@@ -9,8 +9,8 @@ teamMember: [
     header: "Anthony Chavez",
     subheader: "Founder",
     social: {
-      twitter: "#",
-      linkedin: "anthony-chavez-81898921"
+      instagram: "anthony.c.chavez/?hl=en",
+      linkedin: "anthony-chavez-81898921b"
     }
   },
   {
@@ -33,11 +33,11 @@ teamMember: [
     }
   },
   {
-    imageFileName: "team/Mosie.jpg",
-    header: "Chris Mosie",
-    subheader: "NFT artist",
+    imageFileName: "team/General.png",
+    header: "Purrito General",
+    subheader: "International Ambassador",
     social: {
-      twitter: "MosieAlong"
+      twitter: "PeterGast5"
     }
   },
 ]

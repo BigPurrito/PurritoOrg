@@ -10,15 +10,15 @@ const Top = ({ frontmatter }) => {
     return null;
   }
 
-  const { header, subheader, imageFileName, jumpToAnchor, jumpToAnchorText } = frontmatter;
+  const { header, subheader, imageFileName, privacyHref, privacyText, jumpToAnchorText } = frontmatter;
   // eslint-disable-next-line react-hooks/rules-of-hooks
-  const scrollToSection = useSmoothScrollTo(jumpToAnchor);
+  // const scrollToSection = useSmoothScrollTo(jumpToAnchor);
 
   let extraInfoPart;
-  if (jumpToAnchor && jumpToAnchorText) {
+  if (privacyHref && privacyText) {
     extraInfoPart = (
-      <Button size="xl" className="text-uppercase" onClick={scrollToSection}>
-        {jumpToAnchorText}
+      <Button size="xl" className="text-uppercase" href={privacyHref}>
+        {privacyText}
       </Button>
     );
   }

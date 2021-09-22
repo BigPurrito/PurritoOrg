@@ -1,12 +1,13 @@
 ---
 copyright: "Copyright © Purrito Coin 2021"
 social: {
-  twitter: "#",
-  instagram: "#",
-  medium: "#"
+  twitter: "PurritoCoin",
+  instagram: "purritocoin",
+  medium: "purritocoin"
 }
-privacyText: "Privacy Policy"
-privacyHref: "#!"
-termsText: "Terms of Use"
-termsHref: "#!"
+
+# privacyText: "Privacy Policy"
+# privacyHref: "https://docs.google.com/document/d/14TTUWV1WvjQZRy0wjnZVEfjR_TfPtdcs-7Wb9DPZ-iU/edit?usp=sharing"
+# termsText: "Terms of Use"
+# termsHref: "#!"
 ---

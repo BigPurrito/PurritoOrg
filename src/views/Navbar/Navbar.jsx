@@ -13,7 +13,7 @@ import NavItem from "components/NavItem";
 import "./Navbar.scss";
 
 const MyNavbar = ({ anchors, frontmatter, extraItems }) => {
-  const { brand, menuText } = frontmatter;
+  const { brand, menuText, privacyHref } = frontmatter;
 
   const handleScrollToTop = useSmoothScrollTo(0);
 
@@ -54,7 +54,7 @@ const MyNavbar = ({ anchors, frontmatter, extraItems }) => {
         <Navbar.Collapse>
           <Nav className="text-uppercase ml-auto">
             {anchors.map((anchor) => (
-              <NavItem key={anchor} to={anchor} onClick={closeMenu} />
+              <NavItem key={anchor} to={anchor} onClick={closeMenu} href={privacyHref} />
             ))}
           </Nav>
           {extraItems}
