@@ -7,7 +7,7 @@ timeline: [
     imageFileName: "about/2.jpg",
     header: "June 2021",
     subheader: "The beginning",
-    content: "We started Purrito because we were sick of charity coins that weren't even trying. We saw Cardano as the perfect network to begin our journey to change how a decentralized charity functions."
+    content: "We started Purrito because we thought the ecosystem needed a coin that could change how charities are viewed in the space. We saw Cardano as the perfect network to begin our journey to change how a decentralized charity functions."
   },
   {
     imageFileName: "about/3.jpg",
@@ -19,7 +19,7 @@ timeline: [
     imageFileName: "about/2.jpg",
     header: "November 2021",
     subheader: "To govern or not to govern",
-     content: "The Purrito Coin governance token launches on DEX. This launch will signify the start of the governance system. This system will be slowly rolled out overtime but from the first day users will be able to vote on proposals."
+     content: "The Purrito Coin governance token launches on a DEX. This launch will signify the start of the governance system. This system will be slowly rolled out overtime."
   },
 
     {
