@@ -6,7 +6,7 @@ import { Link } from "react-scroll";
 
 import "./NavItem.scss";
 
-const NavItem = ({ to, onClick, children }) => {
+const NavItem = ({ to, onClick, children, privacyHref }) => {
   return (
     <Nav.Item>
       <Link
@@ -16,6 +16,7 @@ const NavItem = ({ to, onClick, children }) => {
         spy
         smooth="easeInOutQuart"
         onClick={onClick}
+        href={privacyHref}
       >
         {children || to}
       </Link>
@@ -27,12 +28,14 @@ NavItem.propTypes = {
   to: PropTypes.string,
   onClick: PropTypes.func,
   children: PropTypes.any,
+  privacyHref: PropTypes.any,
 };
 
 NavItem.defaultProps = {
   to: "",
   onClick: null,
   children: null,
+  privacyHref: "",
 };
 
 export default NavItem;

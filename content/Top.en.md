@@ -1,7 +1,7 @@
 ---
 header: "A Charity built on the Cardano Blockchain"
-subheader: "Welcome To Purrito!"
+subheader: "Welcome To Purrito!" 
 imageFileName: "header-bg.jpg"
-jumpToAnchor: "Services"
-jumpToAnchorText: "Tell Me More"
+privacyText: "Whitepaper"
+privacyHref: "https://docs.google.com/document/d/14TTUWV1WvjQZRy0wjnZVEfjR_TfPtdcs-7Wb9DPZ-iU/edit?usp=sharing"
 ---
