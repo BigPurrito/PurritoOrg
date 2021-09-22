@@ -9,12 +9,6 @@ gatsby version of PurritoCoin site with i18n supported.
 
 __This project is migrated to Gatsby@v3, check the latest Gatsby@v2 version [here](https://github.com/thundermiracle/gatsby-startbootstrap-agency/tree/gatsby-2.0).__
 
-## Preview
-
-## Sample page
-
-
-## Note
 
 
 
@@ -29,30 +23,6 @@ npm install -g gatsby-cli
 
 gatsby new my-blog-folder https://github.com/thundermiracle/gatsby-startbootstrap-agency
 ```
-
-## Why Gatsby Version
-
-1. > Original version is great but have to load too many unnecessary contents from CDN including all components in `bootstrap`, all solid & brands icons in `fontawesome`. That dramatically slows down the FCP(first contentful paint) in 3G environment.
-
-    Using Gatsby could tree-shaking unnecessary code, optimizing images which make first contentful paint very fast.
-
-1. > Implementation of i18n in original version is not easy and will make a lot of redundant code.
-
-    i18n is really easy in Gatsby and i18n is more maintainable.
-
-## Comparison of Original, Webpack and Gatsby version
-
-### Gatsby Version
-
-![Gatsby lighthouse](https://github.com/thundermiracle/gatsby-startbootstrap-agency/blob/screenshot/screenshot/lighthouse_gatsby.png)
-
-### Webpack Version
-
-![Webpack lighthouse](https://github.com/thundermiracle/gatsby-startbootstrap-agency/blob/screenshot/screenshot/lighthouse_webpack.png)
-
-### Original Version
-
-![Original lighthouse](https://github.com/thundermiracle/gatsby-startbootstrap-agency/blob/screenshot/screenshot/lighthouse_original.png)
 
 ## Basic Configuration
 
