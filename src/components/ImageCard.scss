@@ -17,10 +17,10 @@
       @include serif-font;
     }
     .intro-heading {
-      font-size: 30px;
+      font-size: 50px;
       font-weight: 700;
       line-height: 50px;
-      margin-bottom: 20px;
+      margin-bottom: 25px;
       @include heading-font;
     }
   }
@@ -49,5 +49,15 @@
         @include heading-font;
       }
     }
+  }
+}
+
+@media (max-width: 768px) {
+  .intro-heading{
+    font-size: 30px !important;
+    font-weight: 700;
+    line-height: 75px;
+    margin-bottom: 50px;
+    @include heading-font;
   }
 }
