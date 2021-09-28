@@ -7,7 +7,7 @@ teamMember: [
   {
     imageFileName: "team/AnthonyC.jpg",
     header: "Anthony Chavez",
-    subheader: "Founder",
+    subheader: "Founder/Buisness Development",
     social: {
       instagram: "anthony.c.chavez/?hl=en",
       linkedin: "anthony-chavez-81898921b"
@@ -16,7 +16,7 @@ teamMember: [
   {
     imageFileName: "team/cameron_image.jpg",
     header: "Cameron Roman",
-    subheader: "Founder",
+    subheader: "Founder/Lead Developer",
     social: {
       twitter: "SoftKittyTaco1",
       linkedin: "cameron-roman-653865183/"
