@@ -27,7 +27,6 @@
     "gatsby-source-filesystem": "^3.1.0",
     "gatsby-transformer-remark": "^3.1.0",
     "gatsby-transformer-sharp": "^3.1.0",
-    "node-sass": "^4.13.1",
     "prop-types": "^15.7.2",
     "ramda": "^0.27.0",
     "react": "^17.0.2",
@@ -57,7 +56,8 @@
     "eslint-plugin-react": "^7.23.1",
     "eslint-plugin-react-hooks": "^4.2.0",
     "gatsby-plugin-eslint": "^3.0.0",
-    "prettier": "^2.0.4"
+    "prettier": "^2.0.4",
+    "sass": "^1.49.7"
   },
   "homepage": "https://thundermiracle.github.io/gatsby-startbootstrap-agency",
   "keywords": [

@@ -1,8 +1,8 @@
 ---
 clients: [
   {
-    imageFileName: "roadmap/3.jpg",
-    href: ""
+    imageFileName: "StRays.png",
+    href: "#!"
   }
   # {
   #   imageFileName: "logos/designmodo.jpg",
